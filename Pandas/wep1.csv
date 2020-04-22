@@ -1,0 +1,10 @@
+club,1sp,1d4,bludgeoning,2lb,light
+mace,5gp,1d6,bludgeoning,4lb,none
+sickle,1gp,1d4,slashing,2lb,light
+spear,1gp,1d6,piercing,3lb,thrown(range20/60),versatile(1d8)
+dagger,2gp,1d4,piercing,1lb,finesse,light,thrown(range20/60)
+javelin,5sp,1d6,piercing,2lb,thrown(range30/120)
+handaxe,5gp,1d6,slashing,2lb,light;thrown(range20/60)
+lighthammer,2gp,1d4,bludgeoning,2lb,light;thrown(range20/60)
+quarterstaff,2sp,1d6,bludgeoning,4lb,versatile(1d8)
+greatclub,2sp,1d8,bludgeoning,10lb,two-handed;
